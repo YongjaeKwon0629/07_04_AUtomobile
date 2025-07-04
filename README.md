@@ -8,7 +8,7 @@
 
 ### 🔹 핵심 주제
 
-1. [1. 자율주행과 지도 학습의 개요](docs/01_overview.md)
+1. [1. 자율주행과 지도 학습의 개요](./01_overview.md)
 2. [2. 지도 학습의 수학적 모델링](docs/02_mathematical-modeling.md)
 3. [3. 자율주행 내 분류 및 회귀 문제 정의](docs/03_tasks-in-autonomous-driving.md)
 4. [4. 주요 지도학습 알고리즘과 적용 사례](docs/04_algorithms-and-applications.md)
